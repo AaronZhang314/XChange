@@ -35,3 +35,22 @@
     .container{
         margin-left:20px;
     }
+
+
+    .sticky{
+        position: fixed;
+        top:5px;
+        width:67.5% !important;
+    }
+
+    #filler{
+        display: none;
+        color: white;
+    }
+    .showFiller{
+        display: inline !important;
+    }
+
+    .logo{
+        display: inline;
+    }
