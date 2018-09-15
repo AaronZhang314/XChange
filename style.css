@@ -1,0 +1,37 @@
+    /* NAV */
+    .nav{
+        background-color:#2aa22a;
+    }
+    .nav h1 {
+        color: white;
+    }
+    .nav a {
+        color: white;
+    }
+    .container{
+        text-align: center;
+    }
+
+
+
+
+    .column{
+        margin-left: 20px;
+    }
+
+    #balance{
+        color: #156626;
+    }
+
+    #amount{
+        margin: 0 auto;
+        width: 100%;
+    }
+    .input{
+        width:225px;
+    }
+
+
+    .container{
+        margin-left:20px;
+    }
